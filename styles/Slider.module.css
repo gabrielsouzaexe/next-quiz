@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.squares {
+    display: flex;
+    margin-top: 100px;
+    width: 320px;
+    height: 320px;
+    border: 2px solid yellow;
+    transform: all ease;
+}
